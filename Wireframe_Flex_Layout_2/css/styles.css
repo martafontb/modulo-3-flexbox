@@ -56,7 +56,7 @@ header > div {
 
 header div.top-container {
   height: 25%;
-  justify-content: space-evenly;
+  justify-content: space-around;
   align-items: center;
   margin-bottom: 15px;
 }
@@ -117,8 +117,7 @@ div.socials a:hover {
 .top-container > div:nth-child(2) {
   width: 40%;
   display: flex;
-  justify-content: space-evenly;
-  /* margin-right: auto; */
+  justify-content: space-around;
 }
 
 .top-container > div:nth-child(3) {
